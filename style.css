@@ -1,0 +1,29 @@
+body {
+    width:100%;
+    background-image : linear-gradient(to right,  #040404 , #000000 ,#656565);
+  }
+.nav-link{
+    color: whitesmoke!important;
+}
+#a{
+    color: whitesmoke!important;
+}
+#b{
+    color: whitesmoke!important;
+}
+.fs-2
+{
+    color: #808080!important;
+}
+.do
+{
+    color: #808080!important;
+}
+
+#ab{
+    color: rgba(0, 0, 255, 0.763)!important;
+}
+#ac{
+    color:rgba(255, 0, 0, 0.56)!important;
+}
+  
